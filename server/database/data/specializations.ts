@@ -168,6 +168,7 @@ export const specializations: PMO<Specialization>[] = [
           'CS-6460',
           'CS-6465',
           'CS-6471',
+		  'CS-6603',
           'CS-6750',
           'CS-6795',
           'CS-7610',
