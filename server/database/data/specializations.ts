@@ -210,6 +210,7 @@ export const specializations: PMO<Specialization>[] = [
         courses: [
           'CS-6220',
           'CS-6476',
+		  'CS-6603',
           'CS-7535',
           'CS-7540',
           'CS-7545',

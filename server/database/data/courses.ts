@@ -483,7 +483,7 @@ export const courses: PMO<Course>[] = [
     number: '8803-08',
     name: 'Compilers: Theory & Practice',
     aliases: [],
-    foundational: false,
+    foundational: true,
     deprecated: false,
     link: 'https://omscs.gatech.edu/cs-8803-o08-compilers-theory-and-practice',
   },
